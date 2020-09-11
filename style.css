@@ -1,0 +1,33 @@
+
+@font-face{
+	font-family: rafiq;
+	src:url(../font/roboto/Roboto-Bold.ttf);
+}
+@font-face{
+	font-family: mahir;
+	src:url(../font/roboto/Roboto-thin.ttf);
+}
+
+
+
+
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+	
+}
+head{
+	background: red;
+	color: blue;
+}
+a{
+	text-decoration: none !important;
+}
+
+
+
+
+
+
+
